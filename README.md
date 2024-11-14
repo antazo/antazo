@@ -3,23 +3,26 @@
 
 🚀 **Tech-savvy software engineer with a passion for backend development and modern AI integrations!** With over a decade of experience building robust, scalable platforms, my current focus is on creating resilient backend systems and APIs that leverage Microsoft Azure, Python, and C#. I’m aiming to merge my expertise in cloud computing with AI and DevSecOps practices to enhance security and process optimization.
 
-- 🔭 I’m currently working on ...
+## 🔭 I’m currently working on
 
 [ai-python](https://github.com/antazo/ai-python?tab=readme-ov-file#ai-with-python-azure-ai)
 🐍 Harness AI advanced capabilities in a Pythonic way.
 
 [ai-dotnet](https://github.com/antazo/ai-dotnet?tab=readme-ov-file#ai-with-dotnet-azure-ai)
-🤖 The C# version.
+🤖 The ASP.NET Core version.
+
+[Azure-Al](https://github.com/antazo/Azure-Al)
+🤖 My playground for C# and Azure.
 
 [automation-toolbox](https://github.com/antazo/automation-toolbox?tab=readme-ov-file#automation-toolbox)
-⚙️ Python, Bash and PowerShell, and other automation material that I want to keep track of, for future reference and educational purposes.
+⚙️ Python, Bash, PowerShell, and other automation material that I want to keep track of, for future reference and educational purposes.
 
 [belkin-n1-v1-gpl](https://github.com/antazo/belkin-n1-v1-gpl)
 Belkin N1 Vision v1 latest GPL source code version that was removed from the official Belkin Open Source Code Center.
 
-- 🌱 My journey ...
+## 🌱 My journey
 
-## Data Science & AI
+- Data Science & AI
 
 [over-the-moon](https://github.com/antazo/over-the-moon?tab=readme-ov-file#over-the-moon)
 Explore space with Python and Visual Studio Code; inspired by Netflix's Over the Moon
@@ -27,12 +30,12 @@ Explore space with Python and Visual Studio Code; inspired by Netflix's Over the
 [ibm-data-science-ai](https://github.com/antazo/ibm-data-science-ai)
 Data Science & AI assignment evaluation used on the IBM Artificial Intelligence programme, and the IBM Data Science Certificate.
 
-## Cybersecurity
+- Cybersecurity
 
 [google-cybersecurity](https://github.com/antazo/google-cybersecurity)
 Google Cybersecurity certificate program: portfolio activities
 
-- 👯 My favorite forks ...
+## 👯 My favorite forks
 
 [home-assistant](https://github.com/antazo/home-assistant)
 🏡 Open source home automation that puts local control and privacy first.
