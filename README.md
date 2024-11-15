@@ -24,7 +24,7 @@ Belkin N1 Vision v1 latest GPL source code version that was removed from the off
 
 ## 🌱 My journey
 
-- Data Science & AI
+- **Data Science & AI**
 
 [over-the-moon](https://github.com/antazo/over-the-moon?tab=readme-ov-file#over-the-moon)
 Explore space with Python and Visual Studio Code; inspired by Netflix's Over the Moon.
@@ -32,7 +32,7 @@ Explore space with Python and Visual Studio Code; inspired by Netflix's Over the
 [ibm-data-science-ai](https://github.com/antazo/ibm-data-science-ai)
 Data Science & AI assignment evaluation used on the IBM Artificial Intelligence programme, and the IBM Data Science Certificate.
 
-- Cybersecurity
+- **Cybersecurity**
 
 [google-cybersecurity](https://github.com/antazo/google-cybersecurity)
 Google Cybersecurity certificate program: portfolio activities.
