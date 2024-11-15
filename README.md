@@ -13,6 +13,9 @@
 [ai-dotnet](https://github.com/antazo/ai-dotnet?tab=readme-ov-file#ai-with-dotnet-azure-ai)
 🤖 The ASP.NET Core version.
 
+[js-play](https://github.com/antazo/js-play)
+Testing the different JS libraries and frameworks under a .NET environment.
+
 [Azure-Al](https://github.com/antazo/Azure-Al)
 🤖 My playground for C# and Azure.
 
