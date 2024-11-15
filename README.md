@@ -1,7 +1,9 @@
 <!--# Hi there 👋-->
 # github.com/antazo
 
-🚀 **Tech-savvy software engineer with a passion for backend development and modern AI integrations!** With over a decade of experience building robust, scalable platforms, my current focus is on creating resilient backend systems and APIs that leverage **Microsoft Azure**, **Python**, and **C#**. I’m aiming to merge my expertise in cloud computing with AI and DevSecOps practices to enhance security and process optimization.
+🚀 **Tech-savvy software engineer with a passion for backend development and modern AI integrations!** With over a decade of experience building robust, scalable platforms, my current focus is on creating resilient backend systems and APIs that leverage **Microsoft Azure**, **Python**, and **C#**.
+
+💡 I am on track to achieve **Developer Associate** certification, aiming to merge my expertise in cloud computing with **AI** and DevSecOps practices to enhance security and process optimization.
 
 ## 🔭 I’m currently working on
 
