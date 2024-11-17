@@ -8,13 +8,16 @@
 ## 🔭 I’m currently working on
 
 [ai-python](https://github.com/antazo/ai-python?tab=readme-ov-file#ai-with-python-azure-ai)
-🐍 Harness AI advanced capabilities in a Pythonic way.
+🐍 Harness the power of AI with Microsoft Azure advanced capabilities in a Pythonic way.
 
 [ai-dotnet](https://github.com/antazo/ai-dotnet?tab=readme-ov-file#ai-with-dotnet-azure-ai)
-🤖 The ASP.NET Core version.
+🤖 The ASP.NET MVC version of ☝️.
 
 [js-play](https://github.com/antazo/js-play)
-Testing the different JS libraries and frameworks under a .NET environment.
+👨‍🚀 Testing the different JS libraries and frameworks under a .NET environment (ASP.NET Web API and React).
+
+[js-py](https://github.com/antazo/js-py)
+🧑🏽‍🚀 Testing the different JS libraries and frameworks under a Pythonic environment (Django API and React).
 
 [Azure-Al](https://github.com/antazo/Azure-Al)
 🤖 My playground for C# and Azure.
