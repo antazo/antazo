@@ -1,9 +1,11 @@
 <!--# Hi there 👋-->
 # I am Alexan Antazo
 
-🚀 **Tech-savvy software engineer with a passion for backend development and modern AI integrations!** With over a decade of experience building robust, scalable platforms, my current focus is on creating resilient backend systems and APIs that leverage **Microsoft Azure**, **Python**, and **C#**.
+🚀 **Tech-savvy software engineer with a passion for backend development and API integrations!** With over a decade of experience building robust, scalable platforms, my current focus is on creating resilient backend systems that leverage **modern** methodologies.
 
-💡 I am on track to achieve **Developer Associate** certification, aiming to merge my expertise in cloud computing with **AI** and DevSecOps practices to enhance security and process optimization.
+💡 I am on track to achieve **Azure** AI and Developer Associate certifications, aiming to merge my expertise in software with cloud computing and **DevSecOps** practices to enhance security and process optimization.
+
+🌍 Having grown up across three continents, I bring a **multilingual** and global perspective, and a curiosity for learning that fuels my work.
 
 ## 🔭 I’m currently working on
 
