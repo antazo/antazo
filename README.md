@@ -1,5 +1,5 @@
 <!--# Hi there 👋-->
-# github.com/antazo
+# I am Alexan Antazo
 
 🚀 **Tech-savvy software engineer with a passion for backend development and modern AI integrations!** With over a decade of experience building robust, scalable platforms, my current focus is on creating resilient backend systems and APIs that leverage **Microsoft Azure**, **Python**, and **C#**.
 
@@ -19,14 +19,17 @@
 [js-py](https://github.com/antazo/js-py)
 🧑🏽‍🚀 Testing the different JS libraries and frameworks under a Pythonic environment (Django API and React).
 
-[Azure-Al](https://github.com/antazo/Azure-Al)
-🤖 My playground for C# and Azure.
-
 [automation-toolbox](https://github.com/antazo/automation-toolbox?tab=readme-ov-file#automation-toolbox)
 ⚙️ Python, Bash, PowerShell, and other automation material that I want to keep track of, for future reference and educational purposes.
 
-[belkin-n1-v1-gpl](https://github.com/antazo/belkin-n1-v1-gpl)
+[belkin-n1-v1-gpl](https://github.com/antazo/belkin-n1-v1-gpl) (Archived)
 Belkin N1 Vision v1 latest GPL source code version that was removed from the official Belkin Open Source Code Center.
+
+~~[GuitarTunerforWaear2](https://github.com/antazo/GuitarTunerforWear2)~~
+~~⌚ Guitar Tuner for the Mobvoi TicWatch Pro 2020 (Wear OS 2.24)~~
+
+[Azure-Al](https://github.com/antazo/Azure-Al)
+🤖 My playground for C# and Azure.
 
 ## 🌱 My journey
 
@@ -43,6 +46,14 @@ Data Science & AI assignment evaluation used on the IBM Artificial Intelligence 
 [google-cybersecurity](https://github.com/antazo/google-cybersecurity)
 Google Cybersecurity certificate program: portfolio activities.
 
+- **IT & Network Automation (forks)**
+
+[terraform-managing-network-infrastructure-4373320](https://github.com/antazo/terraform-managing-network-infrastructure-4373320)
+This repo is for the Linkedin Learning course: Terraform: Managing Network Infrastructure
+
+[it-cert-automation-practice](https://github.com/antazo/it-cert-automation-practice)
+Google IT Automation with Python Professional Certificate - Practice files
+
 ## 👯 My favorite forks
 
 [home-assistant](https://github.com/antazo/home-assistant)
@@ -50,12 +61,6 @@ Google Cybersecurity certificate program: portfolio activities.
 
 [openalpr](https://github.com/antazo/openalpr)
 Automatic License Plate Recognition library
-
-[terraform-managing-network-infrastructure-4373320](https://github.com/antazo/terraform-managing-network-infrastructure-4373320)
-This repo is for the Linkedin Learning course: Terraform: Managing Network Infrastructure
-
-[it-cert-automation-practice](https://github.com/antazo/it-cert-automation-practice)
-Google IT Automation with Python Professional Certificate - Practice files
 
 [openwrt-archer-c2](https://github.com/antazo/openwrt-archer-c2)
 OpenWrt support for TP-Link Archer C2 AC750 v1 board!
