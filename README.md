@@ -1,11 +1,13 @@
 <!--# Hi there 👋-->
-# I am Alexan Antazo
+# Welcome to my basement! 👋
+
+My name is Alexan Antazo, but you can call me **Al**. This is what I am:
 
 🚀 **Tech-savvy software engineer with a passion for backend development and API integrations!** With over a decade of experience building robust, scalable platforms, my current focus is on creating resilient backend systems that leverage **modern** methodologies.
 
 💡 I am on track to achieve **Azure** AI and Developer Associate certifications, aiming to merge my expertise in software with cloud computing and **DevSecOps** practices to enhance security and process optimization.
 
-🌍 Having grown up across three continents, I bring a **multilingual** and global perspective, and a curiosity for learning that fuels my work.
+🌍 Having grown up across three continents, I bring a global perspective, and a curiosity for learning that fuels my work.
 
 ## 🔭 I’m currently working on
 
