@@ -1,11 +1,13 @@
 <!--# Hi there 👋-->
-# I am Alexan Antazo
+# Welcome to my basement! 👋
+
+My name is Alexan Antazo, but you can call me **Al**. This is what I am:
 
 🚀 **Tech-savvy software engineer with a passion for backend development and API integrations!** With over a decade of experience building robust, scalable platforms, my current focus is on creating resilient backend systems that leverage **modern** methodologies.
 
 💡 I am on track to achieve **Azure** AI and Developer Associate certifications, aiming to merge my expertise in software development with cloud computing and **DevSecOps** practices to enhance security and process optimization.
 
-🌍 Having grown up across three continents, I bring a **multilingual** and global perspective, and a curiosity for learning that fuels my work.
+🌍 Having grown up across three continents, I bring a global perspective, and a curiosity for learning that fuels my work.
 
 ## 🔭 I’m currently working on
 
@@ -21,17 +23,17 @@
 [js-py](https://github.com/antazo/js-py)
 🧑🏽‍🚀 Testing the different JS libraries and frameworks under a Pythonic environment (Django API and React).
 
+[Azure-Al](https://github.com/antazo/Azure-Al)
+🤖 My playground for C# and Azure (AZ-900, AI-900, AZ-204).
+
+[GuitarTunerforWear2](https://github.com/antazo/GuitarTunerforWear2)
+⌚ Guitar Tuner for Mobvoi TicWatch Pro 2020 (Wear OS 2.24). It performs frequency analysis using Fast Fourier Transform (FFT) to detect the pitch.
+
 [automation-toolbox](https://github.com/antazo/automation-toolbox?tab=readme-ov-file#automation-toolbox)
 ⚙️ Python, Bash, PowerShell, and other automation material that I want to keep track of, for future reference and educational purposes.
 
-[belkin-n1-v1-gpl](https://github.com/antazo/belkin-n1-v1-gpl) (Archived)
+[ARCHIVED] [belkin-n1-v1-gpl](https://github.com/antazo/belkin-n1-v1-gpl)
 Belkin N1 Vision v1 latest GPL source code version that was removed from the official Belkin Open Source Code Center.
-
-~~[GuitarTunerforWaear2](https://github.com/antazo/GuitarTunerforWear2)~~
-~~⌚ Guitar Tuner for the Mobvoi TicWatch Pro 2020 (Wear OS 2.24)~~
-
-[Azure-Al](https://github.com/antazo/Azure-Al)
-🤖 My playground for C# and Azure.
 
 ## 🌱 My journey
 
