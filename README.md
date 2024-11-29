@@ -3,9 +3,9 @@
 
 My name is Alexan Antazo, but you can call me **Al**. These are my 3 W's:
 
-WHO: 🚀 **Tech-savvy software engineer with a passion for backend development and API integrations!** With over a decade of experience building robust, scalable platforms, my current focus is on creating resilient backend systems that leverage **modern** methodologies.
+WHO: 🚀 **Tech-savvy software engineer with a passion for backend development and integration!** With over a decade of experience building robust, scalable platforms, my current focus is on creating resilient backend systems that leverage **modern** methodologies.
 
-WHAT: 💡 I am on track to achieve **Azure** AI and Developer Associate certifications, aiming to merge my expertise in software development with cloud computing and **DevSecOps** practices to enhance security and process optimization.
+WHAT: 💡 I am on track to achieve **Azure AI** and **Developer Associate** certifications, aiming to merge my expertise in software development with cloud computing and **SecDevOps** practices to enhance security and process optimization.
 
 WHERE: 🌍 Having grown up across three continents, I bring a global perspective, and a curiosity for learning that fuels my work.
 
