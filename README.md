@@ -17,23 +17,30 @@ WHERE: 🌍 Having grown up across three continents, I bring a global perspectiv
 [ai-dotnet](https://github.com/antazo/ai-dotnet?tab=readme-ov-file#ai-with-dotnet-azure-ai)
 🤖 The ASP.NET MVC version of ☝️.
 
-[js-play](https://github.com/antazo/js-play)
-👨‍🚀 Testing the different JS libraries and frameworks under a .NET environment (ASP.NET Web API and React).
-
-[js-py](https://github.com/antazo/js-py)
-🧑🏽‍🚀 Testing the different JS libraries and frameworks under a Pythonic environment (Django API and React).
+[automation-toolbox](https://github.com/antazo/automation-toolbox?tab=readme-ov-file#automation-toolbox)
+⚙️ Python, Bash, PowerShell, cloud CLIs (az, gcloud) and other automation material.
 
 [Azure-Al](https://github.com/antazo/Azure-Al)
 🤖 My playground for C# and Azure (AZ-900, AI-900, AZ-204).
 
-[GuitarTunerforWear2](https://github.com/antazo/GuitarTunerforWear2)
-⌚ Guitar Tuner for Mobvoi TicWatch Pro 2020 (Wear OS 2.24). It performs frequency analysis using Fast Fourier Transform (FFT) to detect the pitch.
+- **My templates**
 
-[automation-toolbox](https://github.com/antazo/automation-toolbox?tab=readme-ov-file#automation-toolbox)
-⚙️ Python, Bash, PowerShell, and other automation material that I want to keep track of, for future reference and educational purposes.
+[mevn](https://github.com/antazo/mevn)
+👨‍🚀 MongoDB, Express, Vue, Node.js, and Docker containers.
+
+[js-play](https://github.com/antazo/js-play)
+👨‍🚀 JS libraries and frameworks + .NET environment (React and ASP.NET Core Web API).
+
+[js-py](https://github.com/antazo/js-py)
+🧑🏽‍🚀 JS libraries and frameworks + Pythonic environment (React and Django API).
+
+- **Seasoned projects**
 
 [ARCHIVED] [belkin-n1-v1-gpl](https://github.com/antazo/belkin-n1-v1-gpl)
 Belkin N1 Vision v1 latest GPL source code version that was removed from the official Belkin Open Source Code Center.
+
+[DEPRECATED]~~[GuitarTunerforWear2](https://github.com/antazo/GuitarTunerforWear2)~~
+⌚ Guitar Tuner for Mobvoi TicWatch Pro 2020 (Wear OS 2.24). It performs frequency analysis using Fast Fourier Transform (FFT) to detect the pitch.
 
 ## 🌱 My journey
 
