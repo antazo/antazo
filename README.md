@@ -1,5 +1,5 @@
 <!--# Hi there 👋-->
-# Welcome to my basement! 👋
+# WELCOME TO MY BASEMENT! 👋
 
 My name is Alexan Antazo, but you can call me **Al**. These are my 3 W's:
 
@@ -9,7 +9,7 @@ WHAT: 💡 I am on track to achieve **Azure AI** and **Developer Associate** cer
 
 WHERE: 🌍 Having grown up across three continents, I bring a global perspective, and a curiosity for learning that fuels my work.
 
-## 🔭 I’m currently working on
+## 🔭 I’M CURRENTLY WORKING ON
 
 [ai-python](https://github.com/antazo/ai-python?tab=readme-ov-file#ai-with-python-azure-ai)
 🐍 Harness the power of AI with Microsoft Azure advanced capabilities in a Pythonic way.
@@ -42,7 +42,7 @@ Belkin N1 Vision v1 latest GPL source code version that was removed from the off
 [DEPRECATED]~~[GuitarTunerforWear2](https://github.com/antazo/GuitarTunerforWear2)~~
 ⌚ Guitar Tuner for Mobvoi TicWatch Pro 2020 (Wear OS 2.24). It performs frequency analysis using Fast Fourier Transform (FFT) to detect the pitch.
 
-## 🌱 My journey
+## 🌱 MY JOURNEY
 
 - **Data Science & AI**
 
@@ -65,7 +65,10 @@ This repo is for the Linkedin Learning course: Terraform: Managing Network Infra
 [it-cert-automation-practice](https://github.com/antazo/it-cert-automation-practice)
 Google IT Automation with Python Professional Certificate - Practice files
 
-## 👯 My favorite forks
+## 👯 MY FAVORITE FORKS
+
+[OSINT-Framework](https://github.com/antazo/OSINT-Framework)
+OSINT framework focused on gathering information from free tools or resources.
 
 [home-assistant](https://github.com/antazo/home-assistant)
 🏡 Open source home automation that puts local control and privacy first.
