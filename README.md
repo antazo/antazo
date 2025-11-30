@@ -1,15 +1,7 @@
 <!--# Hi there 👋-->
-# WELCOME TO MY BASEMENT! 👋
+# WELCOME! 👋
 
-My name is Alexan Antazo, but you can call me **Al**. These are my 3 W's:
-
-WHO: 🚀 **Tech-savvy software engineer with a passion for backend development and integration!** With over a decade of experience building robust, scalable platforms, my current focus is on creating resilient backend systems that leverage **modern** methodologies.
-
-WHAT: 💡 I am on track to achieve **Azure AI** and **Developer Associate** certifications, aiming to merge my expertise in software development with cloud computing and **SecDevOps** practices to enhance security and process optimization.
-
-WHERE: 🌍 Having grown up across three continents, I bring a global perspective, and a curiosity for learning that fuels my work.
-
-## 🔭 I’M CURRENTLY WORKING ON
+## 🔭 MY LATEST PROJECTS
 
 [ai-python](https://github.com/antazo/ai-python?tab=readme-ov-file#ai-with-python-azure-ai)
 🐍 Harness the power of AI with Microsoft Azure advanced capabilities in a Pythonic way.
@@ -23,18 +15,7 @@ WHERE: 🌍 Having grown up across three continents, I bring a global perspectiv
 [Azure-Al](https://github.com/antazo/Azure-Al)
 🤖 My playground for C# and Azure (AZ-900, AI-900, AZ-204).
 
-- **My templates**
-
-[mevn](https://github.com/antazo/mevn)
-👨‍🚀 MongoDB, Express, Vue, Node.js, and Docker containers.
-
-[js-play](https://github.com/antazo/js-play)
-👨‍🚀 JS libraries and frameworks + .NET environment (React and ASP.NET Core Web API).
-
-[js-py](https://github.com/antazo/js-py)
-🧑🏽‍🚀 JS libraries and frameworks + Pythonic environment (React and Django API).
-
-- **Seasoned projects**
+- **Archived**
 
 [ARCHIVED] [belkin-n1-v1-gpl](https://github.com/antazo/belkin-n1-v1-gpl)
 Belkin N1 Vision v1 latest GPL source code version that was removed from the official Belkin Open Source Code Center.
@@ -42,7 +23,7 @@ Belkin N1 Vision v1 latest GPL source code version that was removed from the off
 [DEPRECATED]~~[GuitarTunerforWear2](https://github.com/antazo/GuitarTunerforWear2)~~
 ⌚ Guitar Tuner for Mobvoi TicWatch Pro 2020 (Wear OS 2.24). It performs frequency analysis using Fast Fourier Transform (FFT) to detect the pitch.
 
-## 🌱 MY JOURNEY
+## 🌱 CAPSTONES AND SUCH
 
 - **Data Science & AI**
 
