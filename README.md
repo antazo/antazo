@@ -3,10 +3,10 @@
 
 ## 🔭 MY LATEST PROJECTS & CONTRIBUTIONS
 
-[Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
+[Deep-Live-Cam](https://github.com/antazo/Deep-Live-Cam)
 Real-time face swap and video deepfake with a single click and only a single image.
 
-[ARCHIVED] [belkin-n1-v1-gpl](https://github.com/antazo/belkin-n1-v1-gpl)
+[belkin-n1-v1-gpl](https://github.com/antazo/belkin-n1-v1-gpl)
 Belkin N1 Vision v1 latest GPL source code version that was removed from the official Belkin Open Source Code Center.
 
 [ai-python](https://github.com/antazo/ai-python?tab=readme-ov-file#ai-with-python-azure-ai)
